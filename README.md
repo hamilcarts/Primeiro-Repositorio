@@ -2,3 +2,5 @@
  Primeiro Repositóro Curso Git e GitHub
 
  Repositorio criado na aula do curso.
+ 
+ Alterando direto no github
